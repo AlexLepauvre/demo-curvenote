@@ -1,0 +1,15 @@
+version: 1
+project:
+  title: DEMO-CURVENOTE
+  id: 813ed988-a705-4bda-9227-f01054f8048c
+site:
+  title: DEMO-CURVENOTE
+  options:
+    logo_text: DEMO-CURVENOTE
+    twitter: LepauvreAlex
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - alexlepauvre.curve.space
